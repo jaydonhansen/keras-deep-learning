@@ -1,1 +1,1 @@
-Deep learning with Keras
+Deep learning/CNNs with Keras
